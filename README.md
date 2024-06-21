@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **any web development project with foreign developer of any country in the world to enhance my collaborate skill**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DinhHoangPhuc?tab=repositories](https://github.com/DinhHoangPhuc?tab=repositories)
+- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/DinhHoangPhuc?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
